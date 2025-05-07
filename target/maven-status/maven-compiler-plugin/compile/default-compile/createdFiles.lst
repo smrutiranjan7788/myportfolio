@@ -1,0 +1,7 @@
+com/example/portfolio/PortfolioApplication.class
+com/example/portfolio/repository/ContactRepository.class
+com/example/portfolio/model/Project.class
+com/example/portfolio/repository/ProjectRepository.class
+com/example/portfolio/model/ContactMessage.class
+com/example/portfolio/controller/ContactController.class
+com/example/portfolio/controller/ProjectController.class
